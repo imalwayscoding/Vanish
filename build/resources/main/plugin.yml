@@ -1,0 +1,11 @@
+name: Vanish
+main: com.github.imalwayscoding.vanish.VanishPlugin
+version: 1.0.0
+api-version: 1.16
+depend:
+  - Kotlin
+
+commands:
+  vanish:
+    description: on/off the vanishment
+    usage: /<command>
